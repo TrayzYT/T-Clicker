@@ -1,0 +1,14 @@
+#macro kopanie
+ilosc_powtorzen: 25
+ilosc_milisekund_w_jedna_strone: 3500
+co_ile_sekund_naprawiac_kilof: 120
+komenda_na_naprawianie_kilofa: /naprawkilof
+slot_kilofa: 1
+co_ile_sekund_wyrzucac_zloto: 125
+slot_zlota: 2
+slot_zlota2: 3
+wyrzucac_zloto: 1
+wyrzucac_zloto2: 1
+bloki: 0
+co_ile_sekund_tworzyc_bloki: 30
+#macro kopanie koniec
