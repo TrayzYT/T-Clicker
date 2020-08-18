@@ -1,2 +1,2 @@
 # T-Clicker
-Nie pobierać checkupdate i messages!
+T-Clicker innowacyjny clicker stworzony w javie!
