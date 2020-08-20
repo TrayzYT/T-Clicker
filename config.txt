@@ -1,13 +1,15 @@
-#Macro lewy                     Uwaga prosze nie zmieniac nic w configu! Config zmienia sie przy uzyciu designu! \n
-Wlaczyc: true \n
-Min-CPS: 12 \n
-Max-CPS: 15 \n
-Button: Mouse 3 \n
-Auto-click: false \n
-#Macro lewy \n
-\n
-#Macro prawy \n
-Wlaczyc: true \n
-CPS: 25 \n
-Button: Mouse 5 \n
-#Macro prawy \n
+#Macro lewy                     Uwaga prosze nie zmieniac nic w configu! Config zmienia sie przy uzyciu designu!
+Wlaczyc: true
+Min-CPS: 12
+Max-CPS: 15
+Button: Mouse 3
+Auto-click: false
+#Macro lewy
+
+#Macro prawy
+Wlaczyc: true
+CPS: 25
+Button: Mouse 5
+#Macro prawy
+
+first_run: true
