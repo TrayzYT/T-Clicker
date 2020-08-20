@@ -1,14 +1,13 @@
-#macro kopanie
-ilosc_powtorzen: 25
-ilosc_milisekund_w_jedna_strone: 3500
-co_ile_sekund_naprawiac_kilof: 120
-komenda_na_naprawianie_kilofa: /naprawkilof
-slot_kilofa: 1
-co_ile_sekund_wyrzucac_zloto: 125
-slot_zlota: 2
-slot_zlota2: 3
-wyrzucac_zloto: 1
-wyrzucac_zloto2: 1
-bloki: 0
-co_ile_sekund_tworzyc_bloki: 30
-#macro kopanie koniec
+#?1337/.,II]=!{y}
+!]1337/3559{y}/:II{}.;=
+?L2448-/@0:II13
+?1337{x}-/@0:II13
+&;{}{},2448:II&;{}{},64:II?,;0=II3
+1337;{},-/]L/k:II691337]0=
+#?1337/.,II]=!{y}
+
+#?1337/.,II@.1337!{y}
+!]1337/3559{y}/:II{}.;=
+/@0:II15
+&;{}{},2448:II?,;0=II5
+#?1337/.,II@.1337!{y}
