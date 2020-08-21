@@ -12,9 +12,9 @@ CPS: 25
 Button: Mouse 5
 #Macro prawy
 
-#Macro wedka
+#Auto wedka
 Wlaczyc: false
 Slot-miecza: 1
 Slot-wedki: 2
 Button: Mouse 4
-#Macro prawy
+#Auto wedka
