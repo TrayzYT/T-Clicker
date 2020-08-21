@@ -11,5 +11,3 @@ Wlaczyc: true
 CPS: 25
 Button: Mouse 5
 #Macro prawy
-
-first_run: true
