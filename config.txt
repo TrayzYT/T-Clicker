@@ -18,3 +18,11 @@ Slot-miecza: 1
 Slot-wedki: 2
 Button: Mouse 4
 #Auto wedka
+
+#Macro liscie
+Wlaczyc: false
+Slot-liscie: 1
+Slot-nozyce: 2
+Repair_count: 45
+Button: R
+#Macro liscie
