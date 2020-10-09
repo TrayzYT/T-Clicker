@@ -1,0 +1,10 @@
+wysokosc: 0
+szerokosc: 10
+Guzik: F4
+co_ile_jesc: 0
+slot_jedzenia: 2
+slot_kilofa: 1
+
+commands:
+- /naprawkilof:38
+- /CX:38
