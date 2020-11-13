@@ -29,13 +29,13 @@ Button: R
 
 
 #Auto podlewanie
-Wlaczyc: true
+Wlaczyc: false
 Slot-miecza: 1
 Slot-wiaderka: 9
 Button: Mouse 4
 #Auto podlewanie
 
 #NoSlowdown
-Wlaczyc: true
+Wlaczyc: false
 Button: Left
 #NoSlowdown
