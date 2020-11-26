@@ -1,14 +1,14 @@
 #Macro lewy                     Uwaga prosze nie zmieniac nic w configu! Config zmienia sie przy uzyciu designu!
 Wlaczyc: true
 Min-CPS: 12
-Max-CPS: 15
+Max-CPS: 13
 Button: Mouse 3
 Auto-click: false
 #Macro lewy
 
 #Macro prawy
 Wlaczyc: true
-CPS: 25
+CPS: 100
 Button: Mouse 5
 #Macro prawy
 
@@ -27,7 +27,6 @@ Repair_count: 45
 Button: R
 #Macro liscie
 
-
 #Auto podlewanie
 Wlaczyc: false
 Slot-miecza: 1
@@ -39,3 +38,17 @@ Button: Mouse 4
 Wlaczyc: false
 Button: Left
 #NoSlowdown
+
+#Auto klockowanie
+Wlaczyc: false
+Slot-klockow: 2
+Slot-kilofa: 5
+Button: L
+#Auto klockowanie
+
+#Auto perla
+Wlaczyc: false
+Slot-miecza: 1
+Slot-perly: G
+Button: L
+#Auto perla
