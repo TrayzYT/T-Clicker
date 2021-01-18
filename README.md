@@ -3,7 +3,7 @@ Innowacyjny, wielofunkcyjny clicker stworzony w języku java.
 
 Funkcje:
 - Macro lewy
-- Macro prway
+- Macro prawy
 - Auto wedka
 - Macro Liscie
 - Auto Podlewanie
