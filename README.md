@@ -13,4 +13,4 @@ Funkcje:
 - Auto perelkowanie
 
 Clicker jest aktualizowany, i ciągle są błędy naprawiane.
-Po za tym clicker posiada "autoupdate" czyli inaczej samo aktualizacje, dzięki którym nie będziecie musieli wchodzić na strone po nową versje clickera.
+Po za tym clicker posiada "autoupdate" czyli inaczej samo aktualizacje, dzięki którym nie będziecie musieli wchodzić na strone po nową wersje clickera.
